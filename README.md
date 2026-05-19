@@ -1,7 +1,7 @@
 👋 Hi, I’m Rupen
-- 👀 I’m interested in ... Machine Learning, Natural Language Processing 
-- 🌱 I’m currently learning ... Smart Assistants using GenAI and Reinforcement Learning 
-- 💞️ I’m looking to collaborate on ... Data Journalism  
+- 👀 I’m interested in --  Machine Learning, Natural Language Processing 
+- 🌱 I’m currently learning -- Massive Multi-agent systems that leverage Reinforcement Learning 
+- 💞️ I’m looking to collaborate on -- Data Journalism  
 - 📫 How to reach me ... Google Me!
 
 <!---
