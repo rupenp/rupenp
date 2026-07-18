@@ -1,6 +1,6 @@
 👋 Hi, I’m Rupen
 - 👀 I’m interested in --  Machine Learning, Natural Language Processing 
-- 🌱 I’m currently learning -- Massive Multi-agent systems that leverage Reinforcement Learning 
+- 🌱 I’m currently learning -- Multi-agent systems; designing benchmark tasks for LLMs
 - 💞️ I’m looking to collaborate on -- Data Journalism  
 - 📫 How to reach me ... Google Me!
 
